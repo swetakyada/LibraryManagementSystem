@@ -1,0 +1,14 @@
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\bin\Debug\LibraryServiceHost.exe.config
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\bin\Debug\LibraryServiceHost.exe
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\bin\Debug\LibraryServiceHost.pdb
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\bin\Debug\LibraryService.dll
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\bin\Debug\LibraryService.pdb
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\bin\Debug\LibraryService.dll.config
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.csproj.AssemblyReference.cache
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.Form1.resources
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.Properties.Resources.resources
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.csproj.GenerateResource.cache
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.csproj.CoreCompileInputs.cache
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.csproj.CopyComplete
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.exe
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryServiceHost\obj\Debug\LibraryServiceHost.pdb

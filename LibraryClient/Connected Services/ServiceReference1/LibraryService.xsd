@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/LibraryService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/LibraryService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Book">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Author" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Issued" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Book" nillable="true" type="tns:Book" />
+  <xs:complexType name="ArrayOfBook">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Book" nillable="true" type="tns:Book" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBook" nillable="true" type="tns:ArrayOfBook" />
+  <xs:complexType name="ArrayOfTransaction">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Transaction" nillable="true" type="tns:Transaction" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTransaction" nillable="true" type="tns:ArrayOfTransaction" />
+  <xs:complexType name="Transaction">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Book" type="xs:int" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="IssueDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Student" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Transaction" nillable="true" type="tns:Transaction" />
+  <xs:complexType name="Student">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Student" nillable="true" type="tns:Student" />
+  <xs:complexType name="ArrayOfStudent">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Student" nillable="true" type="tns:Student" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfStudent" nillable="true" type="tns:ArrayOfStudent" />
+</xs:schema>

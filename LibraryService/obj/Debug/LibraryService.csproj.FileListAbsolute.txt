@@ -1,0 +1,7 @@
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryService\bin\Debug\LibraryService.dll.config
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryService\bin\Debug\LibraryService.dll
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryService\bin\Debug\LibraryService.pdb
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryService\obj\Debug\LibraryService.csproj.CoreCompileInputs.cache
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryService\obj\Debug\LibraryService.dll
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryService\obj\Debug\LibraryService.pdb
+D:\SEM 6\SOC\LibraryManagementSystem\LibraryService\obj\Debug\LibraryService.csproj.AssemblyReference.cache
