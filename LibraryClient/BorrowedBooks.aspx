@@ -4,7 +4,7 @@
     <div class="container">
         <br />
         <center>
-            <h3>Borrowed Books</h3>
+            <h3>Taken Books</h3>
         </center>
         <br />
         <table class="table table-hover">

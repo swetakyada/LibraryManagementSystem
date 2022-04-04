@@ -16,7 +16,7 @@
             <span class="navbar-brand mb-0 h1">Library Management</span>
             <div id="navbar-nav" class="d-flex">
                 <a class="nav-link link-light" href="StudentHome.aspx">Available Books</a>
-                <a class="nav-link link-light" href="BorrowedBooks.aspx">Borrowed Books</a>
+                <a class="nav-link link-light" href="BorrowedBooks.aspx">Taken Books</a>
                 <a class="nav-link link-light" href="Profile.aspx">Profile</a>
                 <a class="nav-link link-light" href="Login.aspx">Logout</a>
             </div>

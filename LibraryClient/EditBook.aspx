@@ -4,7 +4,7 @@
     <div class="container">
         <br />
         <center>
-            <h3>Issue Book</h3>
+            <h3>Edit Book</h3>
         </center>
         <br />
         <form id="form1" runat="server">

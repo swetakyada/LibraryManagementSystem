@@ -13,6 +13,9 @@
         <br />
         <form id="form1" runat="server">
             <div class="card ms-auto me-auto p-5" style="width: 30rem;">
+                <asp:Label ID="Label1" runat="server" Text="Id :"></asp:Label>
+                <span class="border border-dark"><%= student.Id %></span>
+                <br />
                 <asp:Label ID="Label2" runat="server" Text="Name :"></asp:Label>
                 <span class="border border-dark"><%= student.Name %></span>
                 <br />
